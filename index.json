@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="pragma" content="no-cache">
-    <meta http-equiv="expires" content="-1">
-  </head>
 
-
-  <body>
-    <pre>[
   {
     "from": "Shawn Carter",
     "datetime": 1420816800000,
@@ -64,6 +55,3 @@
     "unread": false
   }
 ]
-    </pre>
-  </body>
-</html>
